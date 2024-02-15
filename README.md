@@ -19,6 +19,8 @@ The Toronto Transit Committee (TTC) operates Canada's most popular rapid transit
 
 ![daily_trends](https://github.com/jessicacampbell-astro/TTC_delays_analysis/assets/23153120/9ed9e22f-46b8-43ac-b328-b2caba6e4a10)
 
-**Seasonality:** 
+**Seasonality:** While the number of delays does not significantly vary throughout the year, December and March have the most number of delays while January has the least. This may be caused by a combination of weather-related delays and an increase in ridership as we enter warmer weather.
+
+![seasonality](https://github.com/jessicacampbell-astro/TTC_delays_analysis/assets/23153120/2cddefd9-e673-4086-bb2f-f65724844052)
 
 ## Recommendations
