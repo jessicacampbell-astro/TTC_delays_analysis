@@ -5,6 +5,6 @@ The Toronto Transit Committee (TTC) operates Canada's most popular rapid transit
 
 **Delay distribution:** 
 
-
+![delay_dist](https://github.com/jessicacampbell-astro/TTC_delays_analysis/assets/23153120/9c9eac06-25cb-4d1f-b1b3-49213dff0e07)
 
 ## Recommendations
