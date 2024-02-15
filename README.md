@@ -15,9 +15,9 @@ The Toronto Transit Committee (TTC) operates Canada's most popular rapid transit
 
 ![sudp](https://github.com/jessicacampbell-astro/TTC_delays_analysis/assets/23153120/5c74ea73-960a-4f11-94cd-97657659cca8)
 
-**Daily trends:** 
+**Daily trends:** Most delays occur at 8 am, 5 pm, and 10 pm, likely due to increased ridership during rush-hour traffic. 
 
-
+![daily_trends](https://github.com/jessicacampbell-astro/TTC_delays_analysis/assets/23153120/9ed9e22f-46b8-43ac-b328-b2caba6e4a10)
 
 **Seasonality:** 
 
