@@ -23,7 +23,7 @@ The Toronto Transit Committee (TTC) operates Canada's most popular rapid transit
 
 ![seasonality](https://github.com/jessicacampbell-astro/TTC_delays_analysis/assets/23153120/2cddefd9-e673-4086-bb2f-f65724844052)
 
-**Performance metrics:** While Kennedy Station had the highest number of delays in 2023, it saw a drastic 32% reduction in the number of delays since 2022. The worst 5 subway stations in terms of the number of delays all saw improvements since the previous year, except St. George station which saw a 1% increase. 
+**Performance metrics:** While Kennedy Station had the highest number of delays in 2023, it saw a drastic 32% reduction in the number of delays since 2022. The worst 5 subway stations in terms of the number of delays all saw improvements since the previous year, except St. George Station on Line 1 which saw a 1% increase. 
 
 ![delay_change](https://github.com/jessicacampbell-astro/TTC_transportation_analysis/assets/23153120/0f359958-8efd-4d2d-b43a-bca7cad682ee)
 
@@ -38,6 +38,6 @@ The team provides the following recommendations:
 - Investigate the unusually long delay times (particularly those approaching 360 minutes) as well as the stations most impacted by delays (Kennedy, Kipling, Eglinton, Finch, and Bloor Line 1) to improve performance and ridership experience.
 -  Refine the ambiguous description of 'disorderly patron' to help guide future research and improve upon campaigns that inform the public on how riders are affecting delays, with a focus on Bloor Station on Line 1.
 - Focus delay improvement efforts on times when delays are the highest, including the hours of morning and evening rush hour and throughout March and December.
-- Investigate why St. George Station has shown no improvement in delays since 2022, in light of being among the worst 5 stations.
+- Investigate why St. George Station on Line 1 has shown no improvement in delays since 2022, in light of being among the worst 5 stations.
 
 
