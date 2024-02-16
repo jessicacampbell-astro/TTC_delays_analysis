@@ -23,7 +23,7 @@ The Toronto Transit Committee (TTC) operates Canada's most popular rapid transit
 
 ![seasonality](https://github.com/jessicacampbell-astro/TTC_delays_analysis/assets/23153120/2cddefd9-e673-4086-bb2f-f65724844052)
 
-**Performance metrics:** 
+**Performance metrics:** While Kennedy Station had the highest number of delays in 2023, it saw a drastic 32% reduction in the number of delays since 2022. The worst 5 subway stations in terms of the number of delays all saw improvements since the previous year, except St. George station which saw a 1% increase. 
 
 ![delay_change](https://github.com/jessicacampbell-astro/TTC_transportation_analysis/assets/23153120/0f359958-8efd-4d2d-b43a-bca7cad682ee)
 
