@@ -11,7 +11,7 @@ The Toronto Transit Committee (TTC) operates Canada's most popular rapid transit
 
 ![pain_points](https://github.com/jessicacampbell-astro/TTC_delays_analysis/assets/23153120/09b15efb-d24b-4e31-99ec-496c87a01315)
 
-**Pain points (codes):** The most frequent cause of delays was disorderly patrons (code SUDP), accounting for 6,970 delays for a total delay time of 18,398 minutes. This is a significant increase of SUDP codes since 2022, which experienced 3,800 such delays for a total delay time of 12,484 minutes.
+**Pain points (codes):** The most frequent cause of delays was disorderly patrons (code SUDP), accounting for 6,970 delays for a total delay time of 18,398 minutes. This is a significant increase in SUDP codes since 2022, which experienced 3,800 such delays for a total delay time of 12,484 minutes.
 
 ![sudp](https://github.com/jessicacampbell-astro/TTC_delays_analysis/assets/23153120/5c74ea73-960a-4f11-94cd-97657659cca8)
 
@@ -23,6 +23,8 @@ The Toronto Transit Committee (TTC) operates Canada's most popular rapid transit
 
 ![seasonality](https://github.com/jessicacampbell-astro/TTC_delays_analysis/assets/23153120/2cddefd9-e673-4086-bb2f-f65724844052)
 
+**Performance metrics:** 
 
+![delay_change](https://github.com/jessicacampbell-astro/TTC_transportation_analysis/assets/23153120/0f359958-8efd-4d2d-b43a-bca7cad682ee)
 
 ## Recommendations
