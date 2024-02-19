@@ -29,7 +29,7 @@ The Toronto Transit Committee (TTC) operates Canada's most popular rapid transit
 
 ## Interactive Tableau Dashboard
 
-![tableau-dashboard](https://github.com/jessicacampbell-astro/TTC_transportation_analysis/assets/23153120/57c36c21-33c9-4dde-a8ff-b4c6c30a7081)
+![tableau-dashboard](https://github.com/jessicacampbell-astro/TTC_transportation_analysis/assets/23153120/98ba29e7-5191-4db6-b759-3bb83e8618e5)
 
 ## Recommendations
 
