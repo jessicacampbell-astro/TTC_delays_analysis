@@ -41,6 +41,6 @@ The team provides the following recommendations:
 -  Refine the ambiguous description of 'disorderly patron' to help guide future research and improve upon campaigns that inform the public on how riders are affecting delays, with a focus on Bloor Station on Line 1.
 - Focus delay improvement efforts on times when delays are the highest, including the hours of morning and evening rush hour and throughout March and December.
 - Investigate why St. George Station on Line 1 has shown no improvement in delays since 2022, in light of being among the worst 5 stations.
-- Investigate the delays that occurred outside of operational times.
+- Validate the delays that occurred outside of operational times.
 
 
