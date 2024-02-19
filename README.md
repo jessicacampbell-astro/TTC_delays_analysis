@@ -1,9 +1,15 @@
 # TTC Subway Delays Analysis
 The Toronto Transit Committee (TTC) operates Canada's most popular rapid transit system, with nearly 1 million weekday riders. I performed an exploratory analysis of their [subway delay data](https://open.toronto.ca/dataset/ttc-subway-delay-data/) using SQL and Tableau to investigate performance metrics, YoY KPIs, time-dependent trends, and pain points for presentation to cross-functional teams and to inform performance strategies.
 
+## Interactive Tableau Dashboard
+
+![tableau-dashboard](https://github.com/jessicacampbell-astro/TTC_transportation_analysis/assets/23153120/98ba29e7-5191-4db6-b759-3bb83e8618e5)
+
+There were 21,799 delays in 2023 with an average delay time of 3 minutes. While the number of delays is up by 19% since 2022, the average delay time is down by 20%. The delay times for 2023 range from 2 minutes (no change since 2022) to 360 minutes (down 7%), with a standard deviation of 8 minutes (down 27%). Disorderly patrons were by far the leading cause of delays, accounting for nearly 70% of delays in 2023, with 10-30% increases since 2022.
+
 ## Summary of Insights
 
-**Yearly trends:** The were a total of 21,799 delays during 2023 for a total delay time of 63,623 minutes and an average delay time of 3 minutes. While the number of delays has increased since 2022 (18,290), the total time spent during delays (66,891 minutes) and the average delay time (4 minutes) are lower. Most delays were 7 minutes or less and lasted as long as 360 minutes.
+**Yearly trends:** There were 21,799 delays in 2023 for a total delay time of 63,623 minutes and an average delay time of 3 minutes. While the number of delays has increased since 2022 (18,290), the total time spent during delays (66,891 minutes) and the average delay time (4 minutes) are lower. Most delays were 7 minutes or less and lasted as long as 360 minutes.
 
 ![delay_dist](https://github.com/jessicacampbell-astro/TTC_delays_analysis/assets/23153120/9c9eac06-25cb-4d1f-b1b3-49213dff0e07)
 
@@ -26,10 +32,6 @@ The Toronto Transit Committee (TTC) operates Canada's most popular rapid transit
 **Performance metrics:** While Kennedy Station had the highest number of delays in 2023, it saw a drastic 32% reduction in the number of delays since 2022. The worst 5 subway stations in terms of the number of delays all saw improvements since the previous year, except St. George Station on Line 1 which saw a 1% increase. 
 
 ![delay_change](https://github.com/jessicacampbell-astro/TTC_transportation_analysis/assets/23153120/0f359958-8efd-4d2d-b43a-bca7cad682ee)
-
-## Interactive Tableau Dashboard
-
-![tableau-dashboard](https://github.com/jessicacampbell-astro/TTC_transportation_analysis/assets/23153120/98ba29e7-5191-4db6-b759-3bb83e8618e5)
 
 ## Recommendations
 
