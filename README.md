@@ -3,7 +3,7 @@ The Toronto Transit Committee (TTC) operates Canada's most popular rapid transit
 
 ## Interactive Tableau Dashboard
 
-![tableau-dashboard](![tableau-dashboard](https://github.com/jessicacampbell-astro/TTC_transportation_analysis/assets/23153120/925091cc-0647-47a7-903d-14c17ef52899))
+![tableau-dashboard](https://github.com/jessicacampbell-astro/TTC_transportation_analysis/assets/23153120/925091cc-0647-47a7-903d-14c17ef52899)
 
 There were 21,799 delays in 2023 with an average delay time of 3 minutes. While the number of delays is up by 19% since 2022, the average delay time is down by 20%. The delay times for 2023 range from 2 minutes (no change since 2022) to 360 minutes (down 7%), with a standard deviation of 8 minutes (down 27%). Disorderly patrons were by far the leading cause of delays, accounting for nearly 70% of delays in 2023, with 10-30% monthly increases since 2022.
 
