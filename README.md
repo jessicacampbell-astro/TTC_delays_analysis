@@ -43,4 +43,6 @@ The team provides the following recommendations:
 - Investigate why St. George Station on Line 1 has shown no improvement in delays since 2022, in light of being among the worst 5 stations.
 - Validate the delays that occurred outside of operational times.
 
+## Contact
 
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/jessicacampbell-astro/)!
