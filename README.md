@@ -11,27 +11,15 @@ There were 21,799 delays in 2023 with an average delay time of 3 minutes. While 
 
 **Yearly trends:** There were 21,799 delays in 2023 for a total delay time of 63,623 minutes and an average delay time of 3 minutes. While the number of delays has increased since 2022 (18,290), the total time spent during delays (66,891 minutes) and the average delay time (4 minutes) are lower. Most delays were 7 minutes or less and lasted as long as 360 minutes.
 
-![delay_dist](https://github.com/jessicacampbell-astro/TTC_delays_analysis/assets/23153120/9c9eac06-25cb-4d1f-b1b3-49213dff0e07)
-
 **Pain points (stations):** The station with the greatest number of delays is Kennedy Station with 360 delays for a total delay time of 2,872 minutes. This is followed by Kipling Station (299 delays for 1,794 minutes), Eglinton Station (272 delays for 1,962 minutes), Finch Station (265 delays for 1,614 minutes), and Bloor Station (Line 1; 224 delays for 1,861 minutes).
-
-![pain_points](https://github.com/jessicacampbell-astro/TTC_delays_analysis/assets/23153120/09b15efb-d24b-4e31-99ec-496c87a01315)
 
 **Pain points (codes):** The most frequent cause of delays was disorderly patrons (code SUDP), accounting for 6,970 delays for a total delay time of 18,398 minutes. This is a significant increase in SUDP codes since 2022, which experienced 3,800 such delays for a total delay time of 12,484 minutes.
 
-![sudp](https://github.com/jessicacampbell-astro/TTC_delays_analysis/assets/23153120/5c74ea73-960a-4f11-94cd-97657659cca8)
-
 **Daily trends:** Most delays occurred at 8 am (1,102 delays), 5 pm (1,323 delays), and 10 pm (1,284 delays), likely due to increased ridership during rush-hour traffic. 
-
-![daily_trends](https://github.com/jessicacampbell-astro/TTC_delays_analysis/assets/23153120/9ed9e22f-46b8-43ac-b328-b2caba6e4a10)
 
 **Seasonality:** The number of delays does not significantly vary throughout the year, ranging from 1,635 to 2,009 monthly delays. December (2,009 delays) and March (1,985 delays) had the highest number of delays while January (1,635) had the least.
 
-![seasonality](https://github.com/jessicacampbell-astro/TTC_delays_analysis/assets/23153120/2cddefd9-e673-4086-bb2f-f65724844052)
-
 **Performance metrics:** While Kennedy Station had the highest number of delays in 2023 (2.9 million), it saw a drastic 32% reduction in the number of delays since 2022. The worst 5 subway stations in terms of the number of delays all saw improvements since the previous year, except St. George Station on Line 1 which saw a 1% increase. 
-
-![delay_change](https://github.com/jessicacampbell-astro/TTC_transportation_analysis/assets/23153120/0f359958-8efd-4d2d-b43a-bca7cad682ee)
 
 ## Recommendations
 
